@@ -1,0 +1,25 @@
+* Tasks
+** TODO
+  [2024-09-27 Fri]
+  [[file:~/ai/ideas.org::*Deception vs Deceit][Deception vs Deceit]]
+  asdas
+  asd
+  ad
+
+  asdadasd
+* Notes
+** asdada
+asdasd
+ad
+adasdsa
+:PROPERTIES:
+:CREATED: [2024-09-27 Fri 23:43]
+:END:
+** edit code block with C-c '
+:PROPERTIES:
+:CREATED: [2024-09-28 Sat 00:02]
+:END:
+**
+ [2024-10-03 Thu 18:58]
+ t
+ [[file:~/.spacemacs::t]]

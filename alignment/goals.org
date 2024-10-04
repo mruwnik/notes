@@ -1,0 +1,21 @@
+* Desiderata
+** how to set a goal?
+** how to change goals?
+** how to keep goals with value drift?
+** how to change goals due to value drift?
+
+
+* Single end goal
+** Canonical example is paperclip maximiser
+** Maximisers are dangerous. Probably always
+** Satisficers are probably better
+
+* Multiple end goals
+** Can be modeled as a hierarchy of single goal agents with a decision algorithm?
+
+* Desire vs goals
+** desires are usually unspecified
+** desire can be reduced to a vague goal, usually homeostatical
+*** maybe worth distinguishing between goals that can be achieved ("win the lottery") vs homeostatis ("don"t get too cold")
+*** maybe something like passive vs active? Or positive vs negative?
+** Is not acting on desires a sign of irrationality?

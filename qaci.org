@@ -1,0 +1,15 @@
+* Issues
+** this assumes the human can notice a good solution?
+** this assumes the human remembers what happened between starting the program and the scan:
+*** was hit by a bus?
+*** it takes a long time to take over the world?
+*** competing versions of it being run?
+** requires a solution to sub agent being alligned?
+** AI_n are just AI_0 with more context?
+** why would it very carefully take over the world? To minimize how much it effects it? So as to be as reversable as possible?
+
+* Implementation issues
+** compiler/language/etc bugs?
+
+* Comments
+** would be interesting to have a non random question...

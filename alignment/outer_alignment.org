@@ -1,0 +1,10 @@
+* Outer alignment approaches
+** Formal specification
+*** specify all eventualities
+*** [[https://www.reddit.com/r/slatestarcodex/comments/aprvrw/the_opensource_wish_project_defeating_malicious/][Open source wish project]]
+*** Requires a perfect(ish) understanding of the problem space
+** Empathy / model of operator
+*** "Do what I wish" should suffice, if the agent has at least as good an understanding of the operator as the operator does
+** Goal + context + prerequisites
+*** give it a decent enough description and be fine with any variations, as long as the results are in a specified boundary?
+*** real life is *very* high dimensional, so it would be very hard to constrain all sideroads

@@ -1,0 +1,14 @@
+* Naive alignment
+** train something slightly smarter than a human, use it to align something even stronger
+*** This is [[https://www.alignmentforum.org/s/EmDuGeRw749sD3GKd][Iterated Amplification]]
+
+* What to do with infinite compute
+** simulate the universe down to quantum levels
+*** will allow to check various schemes in detail
+*** what about the infitudes of suffering?
+*** simulating all possible variants could bring into life lovecraftian horrors
+*** twould be very hard to find our specific universe in the myriads of possible worlds, which would make this point moot
+
+
+* Deception vs Deceit
+* Ideas

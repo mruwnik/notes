@@ -1,0 +1,59 @@
+* Vim macros
++ record a macro: `q<register><commands>q`
++ view all registers: `:reg`
++ view specific register: `:reg <register>`
++ replay macro: `@<register>`
++ repeat last macro: `@@`, 12 times: `12@@`
++ run macro on all lines: `:%:normal @<register>`
++ yank line to register: `"<register>yy`
++ paste from register: `"<register>p`
+
+* Code                                                                :howto:
++ Code blocks
+
+#+BEGIN_SRC python
+  return 123 + 2
+#+END_SRC
+
+#+RESULTS:
+: 125
+
++ Eval with `m b e`
++ Edit with `C-c '` - close with the same
++ Wrap selection in block with `C-c C-,` - it will ask what type
+
+* Tables                                                              :howto:
++ Auto realign with tab
++ Auto create
+  | asdasd | asdasd | asdasd |
+  |-  + tab
+
+  or
+
+  | asdas | asd asd | asd asd | + C-c RET
++ `C-c |` auto creates table from region
++ there are a bunch of magic commands for moving rows/cols around
+
+* Links :howto:
++ ~[[link][description]]~
++ ~[[name of header]]~ for local link, e.g. [[Code][link to code section]]
++ ~[[file:~/org/notes.org]]~ for link to file
++ C-c C-l to edit link at point, or create a new link
++ `m x o` to follow link
+
+
+* Tags                                                            :howto:
++ ~C-c C-c~ adds new tag
++ ~C-c / m~ filter headers by tag
+
+* Capture notes                                                       :howto:
++ ~SPC a o c~ captures notes to [[file:~/org/notes.org][notes.org]]
+
+* Footnotes                                                           :howto:
++ Have a footnote like this [fn:1]. bla bla bla
++ `C-c C-x f` creates a footnote
++ Use `C-c C-c` to jump to/from footnote
+
+* Footnotes
+
+[fn:1] Here is the definition of the example footnote

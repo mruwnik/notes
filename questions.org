@@ -1,0 +1,13 @@
+* Questions
+** Are satisficers safer than maximisers?
+ [2024-10-04 Fri 17:23]
+
+ [[file:~/ai/notes/goals.org::*Single end goal][Single end goal]]
+** Can maximisers be safe?
+ [2024-10-04 Fri 17:23]
+
+ [[file:~/ai/notes/goals.org::*Maximisers are dangerous. Probably always][Maximisers are dangerous. Probably always]]
+** Is not acting on desires a sign of irrationality?
+ [2024-10-04 Fri 17:34]
+ Is not acting on desires a sign of irrationality?
+ [[file:~/ai/notes/goals.org::Is not acting on desires a sign of irrationality?]]

@@ -1,0 +1,36 @@
+* General assumptions
+** The AI Operator[fn:1] wants something
+*** Otherwise why run it?
+*** It's hard to know what to want
+*** CEV or something is needed here
+** The AI Operator wants something from the [fn:2]Agent
+*** Implicit context
+The operator is assuming an implicit context in which they operate. This includes obvious things like
+how many resources are available (including time), but also a lot more nebulous things, which the
+operator might not be able to strictly specify or even notice. Like how people don't notice the atmosphere.
+For this to work, the context must either be massively simplified, so the agent can fully comprehend it, or the
+agent must basically have a really good model of the operator.
+
+For the operator to be able to specify their goals, they first need to have a good understanding of them. This
+is in and of itself a hard problem.
+
+At some point of intelligence, it can be assumed that the agent better understands the operator than the
+operator understands themself...
+*** Specifying what the operator wants is hard and complicated at the limit
+*** The better the agent can understand (and model) the operator, the more likely it is to correctly understand
+*** Simpler tasks are more likely to be correctly understood
+** The AI Operator wants the Agent to understand what is to be done
+*** Basically [[file:outer_alignment.org][outer alignment]]
+*** Known approaches:
+**** [[file:../qaci.org][QACI]]
+** The AI Operator wants the Agent to want to do what is to be done
+*** [[file:inner_alignment.org][Inner alignment]]?
+** The AI Operator wants the Agent to want *how* the Operator wants
+** The AI Operator wants the Agent to work in a way that the Operator would approve if they understood the reason
+** The Agent should be able to change its mind
+*** New information about the world should allow goals to change
+*** The Operator should be able to change what the Agent is doing
+
+* Footnotes
+[fn:1] The Operator is basically a human running (or at least starting the AI)
+[fn:2] An agent is the AI of interest
